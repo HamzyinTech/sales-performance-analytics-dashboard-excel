@@ -47,7 +47,8 @@ It enables stakeholders to:
 - **Microsoft Excel**
   - Pivot Tables  
   - Pivot Charts  
-  - Slicers & Filters  
+  - Filters
+  - Sheet Navigation using Hyperlinks (App-like dashboard experience)  
 - **Excel Functions**
   - XLOOKUP  
 - Data Cleaning & Transformation  
