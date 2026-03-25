@@ -98,7 +98,7 @@ Improved strategic planning
 Clear understanding of profit drivers
 
 📷 Dashboard Preview
-(path/to/your/image.png)
+https://github.com/HamzyinTech/sales-performance-analytics-dashboard-excel/tree/main/Images
 
 📂 Project Structure
 Sales-Performance-Dashboard/
