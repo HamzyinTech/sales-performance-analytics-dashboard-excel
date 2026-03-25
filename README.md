@@ -20,7 +20,7 @@ The dashboard transforms raw transactional data into **actionable insights**, en
 - **Microsoft Excel**
   - Pivot Tables  
   - Pivot Charts  
-  - Slicers & Filters  
+  - Filters  
 - **Excel Formulas**
   - XLOOKUP  
 - Data Cleaning & Transformation  
