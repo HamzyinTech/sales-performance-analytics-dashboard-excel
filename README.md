@@ -1,5 +1,4 @@
-# 📊 Sales Performance Analytics Dashboard (Excel) | Q4 2025
-
+# 📊 Interactive Sales Performance Analytics Dashboard (Excel)  | Q4 2025 | Multi-Page Navigable Interface
 > A data-driven Excel dashboard designed to analyze and optimize sales performance across regions, channels, and product categories — enabling strategic business decision-making.
 
 ---
