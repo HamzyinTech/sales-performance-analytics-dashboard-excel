@@ -49,7 +49,8 @@ It enables stakeholders to:
   - Filters
   - Sheet Navigation using Hyperlinks (App-like dashboard experience)  
 - **Excel Functions**
-  - XLOOKUP  
+  - XLOOKUP
+  -  SUMIFS 
 - Data Cleaning & Transformation  
 - Dashboard Design & Layout Optimization  
 
