@@ -158,7 +158,7 @@ This dashboard supports:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Images/dashboard_preview.png)
+![Dashboard Preview](https://github.com/HamzyinTech/sales-performance-analytics-dashboard-excel/tree/main/Images)
 
 ---
 
