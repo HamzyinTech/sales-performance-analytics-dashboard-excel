@@ -1,53 +1,72 @@
-# 📊 Fourth Quartile 2025 Sales Performance Analytics Dashboard (Excel)
+# 📊 Sales Performance Analytics Dashboard (Excel) | Q4 2025
 
-## 🔹 Project Overview
-This project presents a **fully interactive Sales Performance Dashboard built in Microsoft Excel** to analyze business performance across regions, sales channels, and product categories.
+> A data-driven Excel dashboard designed to analyze and optimize sales performance across regions, channels, and product categories — enabling strategic business decision-making.
 
-The dashboard transforms raw transactional data into **actionable insights**, enabling stakeholders to make **data-driven decisions** around revenue growth, profitability, and market expansion.
+---
+
+## 🧩 Business Problem
+Organizations often struggle to **track and evaluate sales performance across multiple regions and product lines**.  
+
+Without a centralized and interactive system:
+- Identifying **top-performing markets** becomes difficult  
+- Underperforming segments go unnoticed  
+- Decision-making is often **slow and non-data-driven**  
+
+---
+
+## 💡 Solution
+This project delivers a **fully interactive Sales Performance Dashboard in Microsoft Excel** that consolidates sales data into a single, intuitive interface.
+
+It enables stakeholders to:
+- Monitor key performance metrics in real time  
+- Compare performance across regions, channels, and categories  
+- Identify trends and make **data-driven strategic decisions**  
+
+---
+
+## 📊 Key Metrics
+| Metric | Value |
+|--------|------|
+| Total Revenue | $1.95M |
+| Total Profit | $486K |
+| Total Quantity Sold | 8,116 |
+| Average Profit Margin | 25% |
 
 ---
 
 ## 🎯 Objectives
-- Analyze overall **sales performance and profitability**
+- Analyze **sales performance and profitability**
 - Identify **top-performing regions, channels, and products**
 - Detect **underperforming segments**
-- Provide **strategic business recommendations**
-- Build an **interactive Excel dashboard for real-time insights**
+- Provide **actionable business recommendations**
+- Build an **interactive and user-friendly dashboard**
 
 ---
 
-## 🛠️ Tools & Techniques Used
+## 🛠️ Tools & Techniques
 - **Microsoft Excel**
   - Pivot Tables  
   - Pivot Charts  
-  - Filters  
-- **Excel Formulas**
+  - Slicers & Filters  
+- **Excel Functions**
   - XLOOKUP  
 - Data Cleaning & Transformation  
 - Dashboard Design & Layout Optimization  
 
 ---
 
-## 📊 Key Metrics
-- **Total Revenue:** $1.95M  
-- **Total Profit:** $486K  
-- **Total Quantity Sold:** 8,116 units  
-- **Average Profit Margin:** 25%  
-
----
-
 ## 📈 Dashboard Features
 - Interactive filters for **Region, Channel, and Category**
-- KPI cards:
+- KPI cards for:
   - Revenue  
   - Profit  
   - Quantity  
-  - Margin  
+  - Profit Margin  
 - Visual breakdowns:
   - Revenue by Region  
   - Sales by Channel  
-  - Category Performance  
-- Clean, user-friendly interface  
+  - Product Category Performance  
+- Clean and intuitive layout for quick insights  
 
 ---
 
@@ -62,10 +81,10 @@ The dashboard transforms raw transactional data into **actionable insights**, en
 | Europe | $345K | $86K | 1,418 |
 
 ### 🔍 Insights
-- Asia is the **top-performing region**
-- North America shows **strong profitability**
-- Africa is **highly competitive**
-- Europe has **growth potential**
+- Asia is the **highest-performing region** by revenue and volume  
+- North America shows **strong and consistent profitability**  
+- Africa demonstrates **competitive performance** relative to size  
+- Europe presents **growth opportunities**  
 
 ---
 
@@ -78,8 +97,8 @@ The dashboard transforms raw transactional data into **actionable insights**, en
 | Partner | $565K | $141K |
 
 ### 🔍 Insights
-- Online and Store are **dominant channels**
-- Partner channel needs **optimization**
+- Online and Store channels are **equally dominant**  
+- Partner channel underperforms and requires **strategic optimization**  
 
 ---
 
@@ -95,49 +114,50 @@ The dashboard transforms raw transactional data into **actionable insights**, en
 | Electronics | $254K | $63K |
 
 ### 🔍 Insights
-- Sports is the **top category**
-- Home & Kitchen shows **strong demand**
-- Electronics underperforms
+- Sports is the **top-performing category**  
+- Home & Kitchen shows **strong and stable demand**  
+- Electronics underperforms relative to expectations  
 
 ---
 
 ## 💰 Profitability Analysis
-- Profit margin: **25%**
-- Profit scales with revenue
+- Average profit margin: **25%**  
+- Profit scales proportionally with revenue across segments  
 
 ### 🔍 Interpretation
-- Pricing is **efficient**
-- No major inefficiencies detected
+- Pricing strategy is **efficient and consistent**  
+- No major cost inefficiencies detected  
 
 ---
 
 ## 📌 Key Business Insights
-- Revenue is **well distributed**
-- No dependency on one market
-- Balanced channels reduce risk
-- Clear product demand patterns
+- Revenue is **well distributed across regions**, reducing risk  
+- Business is not dependent on a single market  
+- Balanced sales channels enhance **operational stability**  
+- Product trends reveal **clear customer demand patterns**  
 
 ---
 
 ## 🚀 Recommendations
-- Expand in **Asia & North America**
-- Improve **Europe performance**
-- Invest in **Sports & Home categories**
-- Investigate **Electronics**
-- Optimize **Partner channel**
+- Expand operations in **Asia and North America**  
+- Improve performance in **Europe**  
+- Invest in **high-performing categories** (Sports, Home & Kitchen)  
+- Investigate **Electronics category performance**  
+- Optimize the **Partner sales channel strategy**  
 
 ---
 
-## 🧠 Business Value
-- Real-time performance monitoring  
-- Quick identification of opportunities  
-- Better strategic planning  
-- Clear profit visibility  
+## 🧠 Business Impact
+This dashboard supports:
+- Faster and more **accurate decision-making**  
+- Identification of **growth opportunities**  
+- Improved **resource allocation**  
+- Enhanced visibility into **profit drivers**  
 
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](https://github.com/HamzyinTech/sales-performance-analytics-dashboard-excel/tree/main/Images)
+![Dashboard Preview](Images/dashboard_preview.png)
 
 ---
 
@@ -159,15 +179,20 @@ Sales-Performance-Dashboard/
 
 ---
 
+## 📊 Data Source
+- Dataset sourced from **Kaggle** (synthetic sales dataset for analysis and visualization purposes)
+
+---
+
 ## ⚡ How to Use
-1. Download the Excel file  
+1. Download the Excel file from the repository  
 2. Open in Microsoft Excel  
-3. Use slicers and filters  
-4. Explore insights  
+3. Use slicers and filters to interact with the dashboard  
+4. Explore insights across regions, channels, and categories  
 
 ---
 
 ## 🔗 Author
 **Oyegoke Hamad Titiloye (HamzyinTech)**  
 - Data Scientist | Data Analyst  
-- [LinkedIn](https://www.linkedin.com/in/oyegoke-hamad-0b656a322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [LinkedIn](https://www.linkedin.com/in/oyegoke-hamad-0b656a322)
