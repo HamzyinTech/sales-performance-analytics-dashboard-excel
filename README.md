@@ -66,7 +66,14 @@ It enables stakeholders to:
   - Revenue by Region  
   - Sales by Channel  
   - Product Category Performance  
-- Clean and intuitive layout for quick insights  
+- Clean and intuitive layout for quick insights
+
+  
+- ## 🧭 Dashboard Navigation Design
+- Designed as a **multi-page, application-style dashboard**
+- Implemented **interactive navigation buttons using Excel hyperlink functionality**
+- Enables seamless movement between dashboard views (Overview, Region, Channel, Category)
+- Enhances user experience and usability compared to static dashboards
 
 ---
 
